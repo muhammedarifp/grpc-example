@@ -1,0 +1,62 @@
+{
+  "id":  "a83b9105-1465-440b-80e0-ba3f9a198d2c",
+  "brand":  "Apple",
+  "name":  "Macbook 2",
+  "cpu":  {
+    "brand":  "Intel",
+    "name":  "Core i5-9600K",
+    "numberCores":  5,
+    "numberThreads":  13,
+    "minGhz":  3.748669383820184,
+    "maxGhz":  4.6620228333118945
+  },
+  "memory":  {
+    "value":  "53",
+    "unit":  "GIGABYTE"
+  },
+  "gpus":  [
+    {
+      "brand":  "Amd",
+      "name":  "RX 990",
+      "minGhz":  1.1858290326642604,
+      "maxGhz":  1.8067912505922574,
+      "memory":  {
+        "value":  "5",
+        "unit":  "GIGABYTE"
+      }
+    }
+  ],
+  "storages":  [
+    {
+      "driver":  "SSD",
+      "memory":  {
+        "value":  "571",
+        "unit":  "GIGABYTE"
+      }
+    },
+    {
+      "driver":  "HDD",
+      "memory":  {
+        "value":  "2",
+        "unit":  "TERABYTE"
+      }
+    }
+  ],
+  "screen":  {
+    "sizeInch":  14.054303,
+    "resolution":  {
+      "width":  2266,
+      "height":  1275
+    },
+    "panel":  "LCD",
+    "multitouch":  false
+  },
+  "keyboard":  {
+    "layout":  "AZERTY",
+    "backlit":  false
+  },
+  "weightKg":  1567.1074,
+  "priceUsd":  924.4762003247869,
+  "releaseYear":  2010,
+  "updatedAt":  "2024-04-04T08:33:59.529571286Z"
+}
