@@ -1,62 +1,62 @@
 {
-  "id":  "a83b9105-1465-440b-80e0-ba3f9a198d2c",
-  "brand":  "Apple",
-  "name":  "Macbook 2",
-  "cpu":  {
-    "brand":  "Intel",
-    "name":  "Core i5-9600K",
-    "numberCores":  5,
-    "numberThreads":  13,
-    "minGhz":  3.748669383820184,
-    "maxGhz":  4.6620228333118945
+  "id": "fc5e15e9-b4ab-41ee-b78c-3113b4726af1",
+  "brand": "Apple",
+  "name": "Macbook 2",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i3-9100",
+    "numberCores": 2,
+    "numberThreads": 5,
+    "minGhz": 4.831374582370525,
+    "maxGhz": 4.91225369334501
   },
-  "memory":  {
-    "value":  "53",
-    "unit":  "GIGABYTE"
+  "memory": {
+    "value": "25",
+    "unit": "GIGABYTE"
   },
-  "gpus":  [
+  "gpus": [
     {
-      "brand":  "Amd",
-      "name":  "RX 990",
-      "minGhz":  1.1858290326642604,
-      "maxGhz":  1.8067912505922574,
-      "memory":  {
-        "value":  "5",
-        "unit":  "GIGABYTE"
+      "brand": "Nvidia",
+      "name": "RTX 9990",
+      "minGhz": 1.2277587279606996,
+      "maxGhz": 1.6799354631397887,
+      "memory": {
+        "value": "6",
+        "unit": "GIGABYTE"
       }
     }
   ],
-  "storages":  [
+  "storages": [
     {
-      "driver":  "SSD",
-      "memory":  {
-        "value":  "571",
-        "unit":  "GIGABYTE"
+      "driver": "SSD",
+      "memory": {
+        "value": "249",
+        "unit": "GIGABYTE"
       }
     },
     {
-      "driver":  "HDD",
-      "memory":  {
-        "value":  "2",
-        "unit":  "TERABYTE"
+      "driver": "HDD",
+      "memory": {
+        "value": "3",
+        "unit": "TERABYTE"
       }
     }
   ],
-  "screen":  {
-    "sizeInch":  14.054303,
-    "resolution":  {
-      "width":  2266,
-      "height":  1275
+  "screen": {
+    "sizeInch": 14.881322,
+    "resolution": {
+      "width": 6234,
+      "height": 3507
     },
-    "panel":  "LCD",
-    "multitouch":  false
+    "panel": "UNKNOWN",
+    "multitouch": true
   },
-  "keyboard":  {
-    "layout":  "AZERTY",
-    "backlit":  false
+  "keyboard": {
+    "layout": "AZERTY",
+    "backlit": false
   },
-  "weightKg":  1567.1074,
-  "priceUsd":  924.4762003247869,
-  "releaseYear":  2010,
-  "updatedAt":  "2024-04-04T08:33:59.529571286Z"
+  "weightKg": 2383.4492,
+  "priceUsd": 965.3986433292479,
+  "releaseYear": 2013,
+  "updatedAt": "2024-04-24T06:07:31.930434056Z"
 }
